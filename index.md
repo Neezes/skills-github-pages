@@ -11,7 +11,7 @@ I’m an author of books for teachers, focused strongly on a **cognitive science
 <!---
 This will automatically grab the title from the first book in books. idk if this is the behaviour you want, you can replace {{site.data.books[0].title}} with just writing the title of whatever book you want, but I do think it's kinda neat
 --->
-Take a look at [my books page]({{site.baseurl}}/books), featuring my new title, *{{site.data.books[0].title}}*.
+Take a look at [my books page]({{site.baseurl}}/books), featuring my latest title, *{{site.data.books[0].title}}*.
 
 ![photo of books]({{site.baseurl}}/assets/home/books.jpg){: width="30%" }
 
