@@ -4,7 +4,7 @@ title: Books
 permalink: /Books/
 ---
 
-Please see [my publications page](/publications) for a full list including articles and presentations, or [view my page on ResearchGate](https://www.researchgate.net/profile/Jonathan_Firth2/projects).
+Please see [my publications page]({{site.baseurl}}/publications) for a full list including articles and presentations, or [view my page on ResearchGate](https://www.researchgate.net/profile/Jonathan_Firth2/projects).
 
 {% for book in site.data.books %}
 
