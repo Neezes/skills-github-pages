@@ -1,11 +1,8 @@
 #site settings
 title: Jonathan Firth – Psychology of Education
-description: This is the summary that shows up in google search results
+description: I am an author, university teacher and researcher. I have authored several books relating to the psychology of education, as well as school psychology textbooks.
 url: "https://neezes.github.io"
 baseurl: "/skills-github-pages"
-
-email:
-twitter_username: JW_Firth
 
 #build settings
 theme: minima
@@ -16,3 +13,8 @@ header_pages:
 - about.md
 - books.md
 - contact.md
+
+social_links:
+- title: Bluesky
+  icon: bluesky
+  url: https://bsky.app/profile/jwfirth.bsky.social

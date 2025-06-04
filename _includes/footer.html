@@ -1,0 +1,27 @@
+<link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css">
+
+<footer class="site-footer h-card">
+  <data class="u-url" value="{{ '/' | relative_url }}"></data>
+
+  <div class="wrapper">
+	  
+    <div class="footer-col">
+      <p>&copy; {{ 'now' | date: '%Y' }} Jonathan Firth</p>
+    </div>
+  
+
+    <div class="footer-col">
+      <ul class="social-media-list">
+        {%for entry in site.social_links %}
+          <li>
+            <a rel="me" href="{{ entry.url }}" target="_blank" title="{{ entry.title }}">
+              <p><span class="grey fa-brands fa-{{ entry.icon }} fa-lg"></span> {{entry.title}}</p>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+  </div>
+
+</footer>
