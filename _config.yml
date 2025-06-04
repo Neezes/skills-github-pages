@@ -1,8 +1,8 @@
 #site settings
 title: Jonathan Firth – Psychology of Education
 description: I am an author, university teacher and researcher. I have authored several books relating to the psychology of education, as well as school psychology textbooks.
-url: "https://neezes.github.io"
-baseurl: "/skills-github-pages"
+url: "jonathanfirth.co.uk"
+baseurl: ""
 
 #build settings
 theme: minima
