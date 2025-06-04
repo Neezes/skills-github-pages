@@ -8,12 +8,12 @@ Please see [my publications page](/publications) for a full list including artic
 
 {% for book in site.data.books %}
 
-# {{book.title}}
+## {{book.title}}
 
-![{{book.title}} cover](/assets/{{book.cover}})
+![{{book.title}} cover](/assets/{{book.cover}}){: width="50%" }
 
 {{book.description}}
 
 [Find out more and buy here.]({{book.link}})
-
+<br><br><br>
 {% endfor %}
