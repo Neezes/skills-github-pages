@@ -1,4 +1,9 @@
 ---
-title: Jonathan Firth – Psychology of Education
+layout: home
+title: Home
+permalink: 
 ---
 
+# test header
+
+*test content*
