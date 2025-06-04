@@ -10,7 +10,7 @@ Please see [my publications page](/publications) for a full list including artic
 
 ## {{book.title}}
 
-![{{book.title}} cover](/assets/{{book.cover}}){: width="50%" }
+![{{book.title}} cover]({{site.baseurl}}/assets/{{book.cover}} | ){: width="50%" }
 
 {{book.description}}
 
