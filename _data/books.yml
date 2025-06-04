@@ -1,7 +1,7 @@
 # if you want a linebreak in the description use <br>
 # you can put multiple for multiple linebreaks
 
-# put cover images in assets folder then copy the filename exactly into cover
+# put cover images in assets/books folder then copy the filename exactly into cover
 
 - title: "Metacognition and Study Skills: A Guide for Teachers"
   cover: metacognition_study_skills.jpeg
