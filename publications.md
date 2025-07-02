@@ -195,6 +195,3 @@ Firth, J. (2011). Higher Psychology: Success Guide. Leckie & Leckie.
 Firth, J. (2007, 3 February). Recent research for NQ Psychology. Annual Conference of the Association for the Teaching of Psychology, Scotland branch, Glasgow, Scotland.
 
 Staddon, G., Duffy, A., Cherrie, R., Firth, J. and McDermott, J. (2005). Psychology for Higher. Unity Publications.
-
-![image](https://github.com/user-attachments/assets/b34fa343-9763-4cb4-afb8-b0a2f3fe1c9a)
-
