@@ -4,31 +4,31 @@ title: Publications and Talks
 permalink: /publications/
 ---
 
-Firth, J., Beck, A., & Wilson, C. (2025). [Headteacher engagement with Pupil Equity Funding: Autonomy, evidence and networks](https://doi.org/10.1177/17411432251343994). Educational Management Administration & Leadership. 
+Firth, J., Beck, A., & Wilson, C. (2025). [Headteacher engagement with Pupil Equity Funding: Autonomy, evidence and networks](https://doi.org/10.1177/17411432251343994). _Educational Management Administration & Leadership_. 
 
 Badger, C., & Firth, J. (2025). *Creativity for teachers: A cognitive science approach*. Routledge.
 
-Firth, J. (2025). On thinking routines and metacognition. https://www.strath.ac.uk/humanities/education/blog/onthinkingroutinesandmetacognition/
+Firth, J. (2025). _On thinking routines and metacognition_. <https://www.strath.ac.uk/humanities/education/blog/onthinkingroutinesandmetacognition/>
 
-Firth, J. (2024). Why education needs to focus on learning. <https://www.strath.ac.uk/humanities/education/blog/whyeducationneedstofocusonlearning/>
+Firth, J. (2024). _Why education needs to focus on learning_. <https://www.strath.ac.uk/humanities/education/blog/whyeducationneedstofocusonlearning/>
 
-Firth, J. (2024). What are lectures for? https://www.strath.ac.uk/humanities/education/blog/whatarelecturesfor/
+Firth, J. (2024). _What are lectures for?_ <https://www.strath.ac.uk/humanities/education/blog/whatarelecturesfor/>
 
-Firth, J. (2024, 13 Sept). A cognitive science approach to creativity [Presented paper]. ReTraInEd, Madrid, Spain.
+Firth, J. (2024, 13 Sept). A cognitive science approach to creativity (Presented paper). ReTraInEd, Madrid, Spain.
 
 Firth, J., & Salehjee, S. (2024). Engaging student teachers with evidence: Trainers’ perspectives of barriers and opportunities. *Pedagogika, 73*(4), 397–414.
 
-Firth, J. (2024). Experiências como ver um picolé derreter podem ensinar alguma coisa sobre ciências? https://theconversation.com/experiencias-como-ver-um-picole-derreter-podem-ensinar-alguma-coisa-sobre-ciencias-238770
+Firth, J. (2024). _Experiências como ver um picolé derreter podem ensinar alguma coisa sobre ciências?_ https://theconversation.com/experiencias-como-ver-um-picole-derreter-podem-ensinar-alguma-coisa-sobre-ciencias-238770
 
-Firth, J. (2024). Licking an ice lolly at school might make a good memory – but this isn’t the secret to learning science. https://theconversation.com/licking-an-ice-lolly-at-school-might-make-a-good-memory-but-this-isnt-the-secret-to-learning-science-237806
+Firth, J. (2024). _Licking an ice lolly at school might make a good memory – but this isn’t the secret to learning science._ https://theconversation.com/licking-an-ice-lolly-at-school-might-make-a-good-memory-but-this-isnt-the-secret-to-learning-science-237806
 
-Firth, J. (2024). Metacognition and study skills: A guide for teachers. David Fulton Books.
+Firth, J. (2024). _Metacognition and study skills: A guide for teachers._ David Fulton Books.
 
 Firth, J. (2024, 27 June). Writing-to-learn for metacognition and transfer among student teachers: A narrative review. European Association for Research on Learning and Instruction (EARLI), SIG 12 (Writing) Conference, Paris, France.
 
 Robertson, N., Chen, Y., Surendran, S., Wythe, J., & Firth, J. (2024, 25 June). Autobiographical writing, fan fiction and education [Roundtable]. European Association for Research on Learning and Instruction (EARLI), SIG 12 (Writing) Conference, Paris, France.
 
-Firth, J. (2024). Metacognitive tools for writing. In Burns, N. (2024), Teaching hacks: Fixing everyday classroom issues with metacognition. SAGE.
+Firth, J. (2024). Metacognitive tools for writing. In Burns, N. (2024), _Teaching hacks: Fixing everyday classroom issues with metacognition_. SAGE.
 
 Firth, J. (2024). Bachoter n’est pas la meilleure façon d’apprendre – ou comment bien réviser pour un examen. The Conversation (Fr). https://theconversation.com/bachoter-nest-pas-la-meilleure-facon-dapprendre-ou-comment-bien-reviser-pour-un-examen-232081
 
