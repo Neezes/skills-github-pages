@@ -4,6 +4,14 @@ title: Home
 permalink: 
 ---
 
+## About
+
+I am an academic working across multiple courses and **research projects**. I’d love to hear from prospective doctoral students, or educators who are interested in collaborating with me.
+
+Find out more about my research interests, CPD offerings, and current projects on [my about page]({{site.baseurl}}/about).
+
+![photo]({{site.baseurl}}/assets/home/photo.jpg){: width="30%" }
+
 ## Books
 
 I’m an author of books for teachers, focused strongly on a **cognitive science** approach to education.
@@ -27,11 +35,3 @@ The best way to to keep up with these posts is to subscribe **for free** to my S
 
 <br>
 
-
-## About
-
-I am an academic working across multiple courses and **research projects**. I’d love to hear from prospective doctoral students, or educators who are interested in collaborating with me.
-
-Find out more about my research interests, CPD offerings, and current projects on [my about page]({{site.baseurl}}/about).
-
-![photo]({{site.baseurl}}/assets/home/photo.jpg){: width="30%" }
