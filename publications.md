@@ -4,7 +4,7 @@ title: Publications and Talks
 permalink: /publications/
 ---
 
-Firth, J., Beck, A., & Wilson, C. (2025). Headteacher engagement with Pupil Equity Funding: Autonomy, evidence and networks [https://doi.org/10.1177/17411432251343994]. Educational Management Administration & Leadership. 
+Firth, J., Beck, A., & Wilson, C. (2025). [Headteacher engagement with Pupil Equity Funding: Autonomy, evidence and networks] (https://doi.org/10.1177/17411432251343994). Educational Management Administration & Leadership. 
 
 Badger, C., & Firth, J. (2025). *Creativity for teachers: A cognitive science approach*. Routledge.
 
