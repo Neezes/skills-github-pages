@@ -16,6 +16,8 @@ Firth, J. (2024). _Why education needs to focus on learning_. <https://www.strat
 
 Firth, J. (2024). _What are lectures for?_ <https://www.strath.ac.uk/humanities/education/blog/whatarelecturesfor/>
 
+Firth, J. (2024, 19 October). Transforming study skills: Through cognitive science. researchED Delaware. Wilmington, DE, USA.
+
 Firth, J. (2024, 13 Sept). A cognitive science approach to creativity (Presented paper). ReTraInEd, Madrid, Spain.
 
 Firth, J., & Salehjee, S. (2024). Engaging student teachers with evidence: Trainers’ perspectives of barriers and opportunities. *Pedagogika, 73*(4), 397–414.
