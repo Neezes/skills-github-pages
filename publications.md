@@ -20,7 +20,7 @@ Firth, J. (2024, 19 October). Transforming study skills: Through cognitive scien
 
 Firth, J. (2024, 13 Sept). A cognitive science approach to creativity (Presented paper). [ReTraInEd](https://eventos.uam.es/101980/detail/retrained-2o-congreso-internacional-en-investigacion-transferencia-e-innovacion-en-educacion.html), Madrid, Spain.
 
-Firth, J., & Salehjee, S. (2024). Engaging student teachers with evidence: Trainers’ perspectives of barriers and opportunities. *Pedagogika, 73*(4), 397–414.
+Firth, J., & Salehjee, S. (2024). [Engaging student teachers with evidence: Trainers’ perspectives of barriers and opportunities](https://ojs.cuni.cz/pedagogika/article/view/3112). *Pedagogika, 73*(4), 397–414.
 
 Firth, J. (2024). _Experiências como ver um picolé derreter podem ensinar alguma coisa sobre ciências?_ https://theconversation.com/experiencias-como-ver-um-picole-derreter-podem-ensinar-alguma-coisa-sobre-ciencias-238770
 
