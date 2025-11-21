@@ -4,6 +4,12 @@ title: Publications and Talks
 permalink: /publications/
 ---
 
+Firth, J. (2025). Teacher-ready research review interleaving: Implications for lectures. _Scholarship of Teaching and Learning in Psychology_. Advance online publication. https://doi.org/10.1037/stl0000464
+
+Firth, J. (2025, 6 November). Difficulties, learning and education [Presented paper]. Educational Ease and Desirable Difficulties Workshop, University of Strathclyde, Glasgow, Scotland.
+
+Firth, J. (2025). A vision of expertise and education: The ideas of Giyoo Hatano. In V. Prajapati, M. Quinn & N. Robertson (Eds.), Brilliant yet shadowed: Shining a light on lesser known thinkers in Education. [_SERA Researching Education Bulletin Special Issue, October 2025_](https://www.sera.ac.uk/wp-content/uploads/sites/13/2025/10/SERA-REB-Brilliant-Yet-Shadowed-Final-Manuscript-1.pdf).
+
 Firth, J., Beck, A., & Wilson, C. (2025). [Headteacher engagement with Pupil Equity Funding: Autonomy, evidence and networks](https://doi.org/10.1177/17411432251343994). _Educational Management Administration & Leadership_.
 
 Firth, J. (2025). All about the Education Studies Joint Honours course at Strathclyde. <https://www.strath.ac.uk/humanities/education/blog/allabouttheeducationstudiesjointhonourscourseatstrathclyde/>
