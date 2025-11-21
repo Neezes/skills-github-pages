@@ -4,7 +4,7 @@ title: Publications and Talks
 permalink: /publications/
 ---
 
-Firth, J. (2025). Teacher-ready research review interleaving: Implications for lectures. _Scholarship of Teaching and Learning in Psychology_. Advance online publication. https://doi.org/10.1037/stl0000464
+Firth, J. (2025). Interleaving: Implications for lectures (Teacher-ready research review). _Scholarship of Teaching and Learning in Psychology_. Advance online publication. https://doi.org/10.1037/stl0000464
 
 Firth, J. (2025, 6 November). Difficulties, learning and education [Presented paper]. Educational Ease and Desirable Difficulties Workshop, University of Strathclyde, Glasgow, Scotland.
 
