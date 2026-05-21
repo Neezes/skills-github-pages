@@ -6,7 +6,7 @@ permalink: /publications/
 
 Firth, J., & Blake, A. (2026). Some principles of good academic writing for students. <https://www.strath.ac.uk/humanities/education/blog/someprinciplesofgoodacademicwritingforstudents/>
 
-Firth, J. (2026, 20 March). Hatano’s adaptive expertise: An overlooked educational insight. Brilliant Yet Shadowed online seminar, University of Strathclyde.
+Firth, J. (2026, 20 March). Hatano’s adaptive expertise: An overlooked educational insight [Presented paper]. Brilliant Yet Shadowed online seminar, University of Strathclyde.
 
 Firth, J. (2025). Interleaving: Implications for lectures (Teacher-ready research review). _Scholarship of Teaching and Learning in Psychology_. Advance online publication. https://doi.org/10.1037/stl0000464
 
