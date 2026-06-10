@@ -4,6 +4,8 @@ title: Publications and Talks
 permalink: /publications/
 ---
 
+Firth, J., & Wang, G. (2026). Difficulties with educational ease. <https://www.strath.ac.uk/humanities/education/blog/difficultieswitheducationalease/>
+
 Firth, J., & Blake, A. (2026). Some principles of good academic writing for students. <https://www.strath.ac.uk/humanities/education/blog/someprinciplesofgoodacademicwritingforstudents/>
 
 Firth, J. (2026, 20 March). Hatano’s adaptive expertise: An overlooked educational insight [Presented paper]. Brilliant Yet Shadowed online seminar, University of Strathclyde.
