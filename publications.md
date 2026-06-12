@@ -4,6 +4,10 @@ title: Publications and Talks
 permalink: /publications/
 ---
 
+Jameson, M. M., Williams, D. J., Firth, J., Sypek, K., & Sharif, A. W. (2026, 16 June). SoTL as entrepreneurial practice: ​A collaborative autoethnography of networked pedagogical inquiry [Academic poster]. Learning and Teaching Day 2026 @ Strathclyde, Glasgow, Scotland.​
+
+Veerapen, S., Rice, F., Ellis, C., & Firth, J. (2026, 16 June). Transitions and barriers: Scottish school study to 1st year university [Presented paper]. Learning and Teaching Day 2026 @ Strathclyde, Glasgow, Scotland.
+
 Firth, J., & Wang, G. (2026). Difficulties with educational ease. <https://www.strath.ac.uk/humanities/education/blog/difficultieswitheducationalease/>
 
 Firth, J., & Blake, A. (2026). Some principles of good academic writing for students. <https://www.strath.ac.uk/humanities/education/blog/someprinciplesofgoodacademicwritingforstudents/>
